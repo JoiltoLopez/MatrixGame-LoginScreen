@@ -1,2 +1,2 @@
 # MatrixGame-LoginScreen
-Tela de login interativa
+Tela de login no estilo Matrix.
